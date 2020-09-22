@@ -1,0 +1,7 @@
+streamlit==0.63.0
+pandas==1.0.5
+numpy==1.18.5
+seaborn==0.10.1
+matplotlib==3.2.2
+joblib==0.16.0
+os
